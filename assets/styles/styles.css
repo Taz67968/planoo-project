@@ -169,7 +169,7 @@ a {
   margin-top: 10px;
   margin-bottom: 10px;
   width: 90%;
-  color: #dede;
+  color: #e8f2e8ee;
   justify-content: space-around;
   border-radius: 5%;
 }
@@ -256,7 +256,7 @@ a {
 
   span {
     background-color: white;
-    color: #0000;
+    color: black;
     width: 30%;
     border-radius: 10%;
     font-size: 50px;
@@ -285,7 +285,7 @@ a {
   width: 50%;
   text-align: center;
   align-content: space-around;
-  color: #0000;
+  color: black;
   border-radius: 40%;
 }
 
@@ -297,7 +297,7 @@ a {
   width: 50%;
   text-align: center;
   align-content: space-around;
-  color: #0000;
+  color: black;
   border-radius: 40%;
 }
 
@@ -309,7 +309,7 @@ a {
   width: 60%;
   text-align: center;
   align-content: space-around;
-  color: rgb(0, 0, 0);
+  color: black;
   border-radius: 40%;
 }
 
@@ -320,7 +320,7 @@ a {
 }
 
 .sec-six {
-  background-color: #dede;
+  background-color: rgb(228, 226, 226);
   margin-top: 30px;
   text-align: center;
 }
