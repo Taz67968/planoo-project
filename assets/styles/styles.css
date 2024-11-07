@@ -33,7 +33,7 @@ header {
 .hero-text {
   background-color: #fe8d27;
   border-radius: 2.5%;
-  color: hwb(0 87% 13%);
+  color: #dede;
   text-align: center;
 
   span {
@@ -62,7 +62,7 @@ form {
 
   button {
     color: #fff;
-    background-color: hwb(0 0% 100%);
+    background-color: #0000;
     border-radius: 5%;
   }
 }
@@ -86,7 +86,7 @@ a {
 
   h3 {
     color: white;
-    background-color: hwb(127 13% 55%);
+    background-color: #21732b;
     width: 30%;
     margin-top: 15px;
     margin-left: 35%;
@@ -169,7 +169,7 @@ a {
   margin-top: 10px;
   margin-bottom: 10px;
   width: 90%;
-  color: hwb(0 87% 13%);
+  color: #dede;
   justify-content: space-around;
   border-radius: 5%;
 }
@@ -256,7 +256,7 @@ a {
 
   span {
     background-color: white;
-    color: hwb(0 0% 100%);
+    color: #0000;
     width: 30%;
     border-radius: 10%;
     font-size: 50px;
@@ -285,7 +285,7 @@ a {
   width: 50%;
   text-align: center;
   align-content: space-around;
-  color: hwb(0 0% 100%);
+  color: #0000;
   border-radius: 40%;
 }
 
@@ -297,7 +297,7 @@ a {
   width: 50%;
   text-align: center;
   align-content: space-around;
-  color: hwb(0 0% 100%);
+  color: #0000;
   border-radius: 40%;
 }
 
@@ -320,7 +320,7 @@ a {
 }
 
 .sec-six {
-  background-color: hwb(0 87% 13%);
+  background-color: #dede;
   margin-top: 30px;
   text-align: center;
 }
@@ -539,7 +539,6 @@ a {
   span {
     background-color: #f5f5f5;
     border-radius: 6%;
-    
     img {
       width: 4%;
     }
