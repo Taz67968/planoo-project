@@ -539,10 +539,10 @@ a {
   span {
     background-color: #f5f5f5;
     border-radius: 6%;
-    
-    img {
-      width: 4%;
-    }
+  }
+
+  img {
+    width: 4%;
   }
 }
 
