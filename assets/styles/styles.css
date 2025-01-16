@@ -688,7 +688,7 @@ a {
 
   .sec-seven {
     padding-top: 8%;
-    margin-top: 0px;
+    margin-top: 0;
     display: grid;
     grid-template-columns: 50% 50%;
   }
@@ -696,17 +696,6 @@ a {
   .free {
     button {
       width: 476%;
-    }
-  }
-
-  .sec-eight {
-    font-size: larger;
-    padding-bottom: 3%;
-
-    a {
-      img {
-        width: 1.5%;
-      }
     }
   }
 
@@ -719,6 +708,17 @@ a {
     img {
       width: 15%;
       margin-top: 2%;
+    }
+  }
+
+  .sec-eight {
+    font-size: larger;
+    padding-bottom: 3%;
+
+    a {
+      img {
+        width: 1.5%;
+      }
     }
   }
 
